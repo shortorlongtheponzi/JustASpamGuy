@@ -1,0 +1,13 @@
+YOUR_PUB_KEY=0x
+YOUR_PRIVATE_KEY=abc...
+
+TARGET_TOKEN=0x..
+WETH_ADDRESS=0x..
+
+RPC=wss://optimism-mainnet.chainnodes.org/
+
+AMOUNT_IN=800000000000000000 //in wei
+GAS_LIMIT=4000000 //in units
+
+SPAM_DELAY=100 //in ms
+
